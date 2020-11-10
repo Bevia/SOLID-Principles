@@ -1,7 +1,6 @@
 # SOLID-Principles
-Solid Principles
 
-
+Dependecy Inversion
 
 ```
 import UIKit
