@@ -1,7 +1,10 @@
 # SOLID-Principles
 Solid Principles
 
-Dependency Inversionimport UIKit
+
+
+```
+import UIKit
 
 // ****** non SOLID --> D = Dependency Inversion  ********
 // *********  WITHOUT Dependency Inversion :(   **********
@@ -82,3 +85,4 @@ highleveDI = HighLevelDI(delegate: LowLevelB_DI())
 highleveDI.getDescription()
 
 
+```
